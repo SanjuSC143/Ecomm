@@ -1,0 +1,130 @@
+{
+  "seller": [
+    {
+      "name": "Sanjana Choube",
+      "password": "12345",
+      "email": "sanjana@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Yash",
+      "password": "12345",
+      "email": "yash@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "bhagyashree",
+      "password": "12345",
+      "email": "bhagyashree@gmail.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Mi laptop",
+      "price": "60000",
+      "category": "electronics",
+      "color": "silver",
+      "description": "Mi Notebook",
+      "image": "\\assets\\mi.jpg",
+      "id": 3
+    },
+    {
+      "name": "Noise ColorFit Pro3",
+      "price": "2500",
+      "category": "electronics",
+      "color": "violet",
+      "description": "Smart watch",
+      "image": "\\assets\\noise.jpg",
+      "id": 4
+    },
+    {
+      "name": "Doll house",
+      "price": "1500",
+      "category": "Toys",
+      "color": "Pink",
+      "description": "Doll house for barbie",
+      "image": "\\assets\\barbie.jpg",
+      "id": 5
+    },
+    {
+      "name": "toy car",
+      "price": "1000",
+      "category": "Toys",
+      "color": "black",
+      "description": "toy car for children",
+      "image": "\\assets\\car.jpg",
+      "id": 6
+    },
+    {
+      "name": "Remote control car",
+      "price": "1200",
+      "category": "Toys",
+      "color": "red",
+      "description": "remote control car for children",
+      "image": "\\assets\\car1.jpg",
+      "id": 7
+    },
+    {
+      "name": "Bottle",
+      "price": "1300",
+      "category": "kitchen accesories",
+      "color": "silver",
+      "description": "Milton bottle",
+      "image": "\\assets\\bottle.jpg",
+      "id": 8
+    },
+    {
+      "name": "Realme 5i",
+      "price": "10000",
+      "category": "electronics",
+      "color": "blue",
+      "description": "Smart Phone",
+      "image": "\\assets\\realme.jpg",
+      "id": 9
+    },
+    {
+      "name": "Blutooth Headset",
+      "price": "999",
+      "category": "electronics",
+      "color": "blue",
+      "description": "wireless gaming headset",
+      "image": "\\assets\\headset.jpg",
+      "id": 10
+    },
+    {
+      "name": "Samsung galaxy watch",
+      "price": "799",
+      "category": "electronics",
+      "color": "silicon",
+      "description": "Bracelet watch",
+      "image": "\\assets\\watch.jpg",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Sanjana",
+      "email": "sanjana@gmail.com",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "sanjana@gmail.com",
+      "address": "HITACHI VANTARA SOFTWARE SERVICES INDIA PRIVATE LIMITED,3rd floor, Tower VII,Magarpatta City SEZ, Magarpatta City, Hadapsar,Pune, MaharashtraINDIA 411013",
+      "contact": "8080155017",
+      "totalPrice": 1600,
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}
